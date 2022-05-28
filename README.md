@@ -1,8 +1,8 @@
 # Readme
 I. Phân công công việc:
-  - Trần Ngọc Lợi: Xử lý API.
-  - Lê Đức Nguyên: Tạo template, font-end.
-  - Nguyễn Quang Chí: Tạo database + hàm truy vấn.
+  - Trần Ngọc Lợi - B19DCCN404: Xử lý API.
+  - Lê Đức Nguyên - B19DCCN476: Tạo template, font-end.
+  - Nguyễn Quang Chí- B19DCCN097: Tạo database + hàm truy vấn.
 
 
 II. Mô tả hệ thống:
